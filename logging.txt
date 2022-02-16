@@ -1,0 +1,58 @@
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": -38.383494,
+        "lng": 33.427362
+    },
+    "accuracy": 50,
+    "name": "Angel Aguilar",
+    "phone_number": "(+91) 983 893 6664",
+    "address": "All World",
+    "types": [
+        "house",
+        "park",
+        "store"
+    ],
+    "website": "facebook.com",
+    "language": "Spanish"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "location": {
+        "lat": -38.383494,
+        "lng": 33.427362
+    },
+    "accuracy": 50,
+    "name": "Injected",
+    "phone_number": "(+91) 983 893 6664",
+    "address": "Merida",
+    "types": [
+        "house",
+        "park",
+        "store"
+    ],
+    "website": "facebook.com",
+    "language": "Spanish"
+}
